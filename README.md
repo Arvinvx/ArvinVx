@@ -4,19 +4,10 @@
 Arxspace is a personal productivity and planning web application I am building to help structure daily routines, track habits, and maintain long-term focus.  
 The project is designed as a single workspace where planning, progress tracking, and self-improvement systems come together instead of being spread across multiple tools.
 
-Arxspace is being developed incrementally with attention to:
-- Clear and minimal user interface design
-- Practical features that support consistency and discipline
-- Code structure that can scale as the project grows
-- Learning through building rather than premature optimization
-
-The long-term goal is to turn Arxspace into a real, usable product rather than a short-term demo project.
-
 ## Learning
 I am actively learning and improving in the following areas:
 
 - **Python**  
-  Writing cleaner and more structured code, focusing on logic, readability, and real-world use cases.
 
 - **Data Analysis with Pandas**  
   Working with datasets, cleaning data, extracting insights, and understanding how data flows through programs.
