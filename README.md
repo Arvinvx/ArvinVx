@@ -34,13 +34,10 @@ I currently have working knowledge of:
   Familiar with core concepts and syntax, still actively learning and improving through practice.
 
 ## How I Learn
-I focus on learning by:
-- Building small projects alongside larger ones
-- Testing ideas by writing code, not just reading
-- Breaking things and fixing them to understand behavior
-- Gradually improving code quality instead of chasing perfection
-
-Understanding the reasoning behind tools and concepts matters more to me than copying finished solutions.
+I focus on learning from:
+- [W3schools](W3schools.com) For Code , Ml
+- [brilliant](https://brilliant.org/) For Math , Basic Coding , Programming , Data Analysis 
+- [Youtube](https://www.youtube.com/) For everything i guess
 
 ## Contact
-Discord: arvinvx
+[Discord](https://discord.com/): arvinvx
