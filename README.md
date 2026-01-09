@@ -35,9 +35,9 @@ I currently have working knowledge of:
 
 ## How I Learn
 I focus on learning from:
-- [W3schools](W3schools.com) For Code , Ml
+- [W3schools](https://www.w3schools.com/) For Code , Ml
 - [brilliant](https://brilliant.org/) For Math , Basic Coding , Programming , Data Analysis 
 - [Youtube](https://www.youtube.com/) For everything i guess
 
 ## Contact
-[Discord](https://discord.com/): arvinvx
+[Discord](https://discord.com/) : arvinvx
