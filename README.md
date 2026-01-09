@@ -1,35 +1,55 @@
 # Arvin
 
-## Current Project - Arxspace
-Arxspace is a personal productivity and planning web application focused on routines, focus, and long-term self-improvement.  
-The goal is to combine planning, habit tracking, and progress tracking into one structured workspace instead of using multiple tools.
+## Current Project - [Arxspace](https://www.ar4x.store/)
+Arxspace is a personal productivity and planning web application I am building to help structure daily routines, track habits, and maintain long-term focus.  
+The project is designed as a single workspace where planning, progress tracking, and self-improvement systems come together instead of being spread across multiple tools.
 
-The project is built gradually with an emphasis on clarity, usability, and long-term scalability.
+Arxspace is being developed incrementally with attention to:
+- Clear and minimal user interface design
+- Practical features that support consistency and discipline
+- Code structure that can scale as the project grows
+- Learning through building rather than premature optimization
 
-## Notable Projects
-- **Arxspace** – A productivity and planning system for routines, habits, and goal tracking
-- **Workout & Progress Tracker** – A personal system for tracking training, body measurements, and consistency
-- **Python Practice Projects** – Small programs focused on logic, data handling, and problem solving
-- **AI & Automation Experiments** – Early-stage experiments with automation and AI concepts
+The long-term goal is to turn Arxspace into a real, usable product rather than a short-term demo project.
 
-## Areas of Focus
-- Computer science fundamentals
-- Programming logic and problem solving
-- Data analysis with Python
-- Artificial intelligence and automation basics
-- Building real projects instead of tutorial clones
+## Learning
+I am actively learning and improving in the following areas:
 
-## Technologies I Use / Learn
-- Python
-- JavaScript
-- HTML / CSS
-- Git & GitHub
-- Basic data analysis tools
-- Web application fundamentals
+- **Python**  
+  Writing cleaner and more structured code, focusing on logic, readability, and real-world use cases.
 
-## How I Work
-I learn by building small projects, breaking things, reading documentation, and refining my code over time.  
-Understanding why something works matters more to me than copying solutions.
+- **Data Analysis with Pandas**  
+  Working with datasets, cleaning data, extracting insights, and understanding how data flows through programs.
+
+- **Machine Learning**  
+  Learning core machine learning concepts such as supervised and unsupervised learning, model evaluation, and using common ML libraries.
+
+- **Mathematics for Machine Learning**  
+  Strengthening fundamentals like linear algebra, basic statistics, and probability to better understand how ML models work internally.
+
+- **C#**  
+  Learning the language and ecosystem, improving syntax familiarity, and building small projects to reinforce understanding.
+
+## Know
+I currently have working knowledge of:
+
+- **HTML & CSS**  
+  Building basic layouts, structuring pages, and understanding how frontend components fit together.
+
+- **Python**  
+  Writing small to medium-sized scripts, practicing problem-solving, and using Python as a general-purpose programming tool.
+
+- **C# (basic)**  
+  Familiar with core concepts and syntax, still actively learning and improving through practice.
+
+## How I Learn
+I focus on learning by:
+- Building small projects alongside larger ones
+- Testing ideas by writing code, not just reading
+- Breaking things and fixing them to understand behavior
+- Gradually improving code quality instead of chasing perfection
+
+Understanding the reasoning behind tools and concepts matters more to me than copying finished solutions.
 
 ## Contact
 Discord: arvinvx
