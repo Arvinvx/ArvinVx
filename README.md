@@ -1,35 +1,35 @@
-Currently Working On
-Arxspace
+# Arvin
 
-Arxspace is a personal productivity and planning web application I’m building to help people structure their routines, track progress, and stay focused on long-term goals.
-The idea is to combine daily planning, habit tracking, and self-improvement systems into one simple workspace instead of juggling multiple apps.
+## Current Project - Arxspace
+Arxspace is a personal productivity and planning web application focused on routines, focus, and long-term self-improvement.  
+The goal is to combine planning, habit tracking, and progress tracking into one structured workspace instead of using multiple tools.
 
-The project is focused on:
+The project is built gradually with an emphasis on clarity, usability, and long-term scalability.
 
-Designing a clear and minimal user experience
+## Notable Projects
+- **Arxspace** – A productivity and planning system for routines, habits, and goal tracking
+- **Workout & Progress Tracker** – A personal system for tracking training, body measurements, and consistency
+- **Python Practice Projects** – Small programs focused on logic, data handling, and problem solving
+- **AI & Automation Experiments** – Early-stage experiments with automation and AI concepts
 
-Building scalable features step by step instead of rushing
+## Areas of Focus
+- Computer science fundamentals
+- Programming logic and problem solving
+- Data analysis with Python
+- Artificial intelligence and automation basics
+- Building real projects instead of tutorial clones
 
-Using modern web technologies with a long-term goal of turning it into a real product, not a demo
+## Technologies I Use / Learn
+- Python
+- JavaScript
+- HTML / CSS
+- Git & GitHub
+- Basic data analysis tools
+- Web application fundamentals
 
-Currently Learning
+## How I Work
+I learn by building small projects, breaking things, reading documentation, and refining my code over time.  
+Understanding why something works matters more to me than copying solutions.
 
-I’m actively learning computer science fundamentals with a strong focus on understanding logic and problem-solving, not just syntax.
-
-Main areas of focus:
-
-Python programming and core programming concepts
-
-Data analysis and working with real data
-
-Artificial intelligence and automation fundamentals
-
-Writing cleaner, more maintainable code
-
-I usually learn by building small projects, breaking things, and fixing them until the logic actually makes sense.
-
-Contact
-
-If you want to reach me or talk about projects, ideas, or collaboration:
-
+## Contact
 Discord: arvinvx
