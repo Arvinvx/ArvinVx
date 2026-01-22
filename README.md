@@ -1,43 +1,64 @@
-# Arvin
+# 👋 Arvin
 
-## Current Project - [Arxspace](https://www.ar4x.store/)
-Arxspace is a personal productivity and planning web application I am building to help structure daily routines, track habits, and maintain long-term focus.  
-The project is designed as a single workspace where planning, progress tracking, and self-improvement systems come together instead of being spread across multiple tools.
+## 🚀 Current Project — **Arxspace**
 
-## Learning
-I am actively learning and improving in the following areas:
+🔗 [https://www.ar4x.store/](https://www.ar4x.store/)
 
-- **Python**  
+**Arxspace** is a personal productivity and planning web app I’m building to stop my life (and brain) from being scattered across 12 different tools.
+It’s a **single workspace** for:
 
-- **Data Analysis with Pandas**  
-  Working with datasets, cleaning data, extracting insights, and understanding how data flows through programs.
+* 🗓️ Daily planning
+* 📈 Progress tracking
+* 🔁 Habit systems
+* 🎯 Long-term focus & self-improvement
 
-- **Machine Learning**  
-  Learning core machine learning concepts such as supervised and unsupervised learning, model evaluation, and using common ML libraries.
+Basically: one dashboard instead of chaos.
 
-- **Mathematics for Machine Learning**  
-  Strengthening fundamentals like linear algebra, basic statistics, and probability to better understand how ML models work internally.
+---
 
-- **C#**  
-  Learning the language and ecosystem, improving syntax familiarity, and building small projects to reinforce understanding.
+## 📚 Learning
 
-## Know
-I currently have working knowledge of:
+I’m actively improving in these areas:
 
-- **HTML & CSS**  
-  Building basic layouts, structuring pages, and understanding how frontend components fit together.
+* 🐍 **Python**
+* 📊 **Data Analysis with Pandas**
+  Cleaning data, extracting insights, understanding how data flows.
+* 🤖 **Machine Learning**
+  Supervised & unsupervised learning, model evaluation, ML libraries.
+* 📐 **Mathematics for Machine Learning**
+  Linear algebra, statistics, probability (the fun pain).
+* 🎮 **C#**
+  Syntax, ecosystem, and small projects for real understanding.
 
-- **Python**  
-  Writing small to medium-sized scripts, practicing problem-solving, and using Python as a general-purpose programming tool.
+---
 
-- **C# (basic)**  
-  Familiar with core concepts and syntax, still actively learning and improving through practice.
+## 🧠 What I Already Know
 
-## How I Learn
-I focus on learning from:
-- [W3schools](https://www.w3schools.com/) For Code , Ml
-- [brilliant](https://brilliant.org/) For Math , Basic Coding , Programming , Data Analysis 
-- [Youtube](https://www.youtube.com/) For everything i guess
+* 🌐 **HTML & CSS**
+  Page structure, layouts, and how frontend pieces fit together.
+* 🐍 **Python**
+  Small to medium scripts, problem-solving, general-purpose use.
+* 🎯 **C# (Basic)**
+  Core concepts and syntax, still grinding.
 
-## Contact
-[Discord](https://discord.com/) : arvinvx
+---
+
+## 🛠️ Tools & Resources
+
+How I learn without losing my mind:
+
+* 🧪 **W3Schools** — Coding, ML basics
+  [https://www.w3schools.com/](https://www.w3schools.com/)
+* 🧠 **Brilliant** — Math, logic, data thinking
+  [https://brilliant.org/](https://brilliant.org/)
+* 🎥 **YouTube** — Everything else (organized chaos)
+
+---
+
+## 📫 Contact
+
+* 💬 **Discord**: `arvinvx`
+
+---
+
+⭐ If you’re reading this on GitHub, yes, this README will keep evolving. Just like the project. Just slower. Because humans.
