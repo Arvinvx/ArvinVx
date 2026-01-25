@@ -14,7 +14,9 @@ New project coming soon.
 ## Core Focus
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F2937?logo=databricks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)\
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+
 
 Focused on building strong foundations in programming and data analysis, with a long-term goal of transitioning into machine learning and advanced systems.
 
