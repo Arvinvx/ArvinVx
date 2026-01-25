@@ -13,51 +13,48 @@ New project coming soon.
 
 ## Core Focus
 
-![Data Science](https://img.shields.io/badge/Data%20Science-1F2937?logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F2937?logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-I am focused on building strong foundations in data science and machine learning, with an emphasis on understanding the math, logic, and real-world application behind the tools.
+Focused on building strong foundations in programming and data analysis, with a long-term goal of transitioning into machine learning and advanced systems.
 
 ---
 
 ## Actively Learning & Using
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Metabolomics](https://img.shields.io/badge/Metabolomics-0F172A?logo=atom&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
-![Math](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
+![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
 
-- Python for scripting, automation, and data workflows
-- NumPy for numerical computing and array-based logic
-- Pandas for data cleaning, transformation, and analysis
-- Metabolomics concepts and data-oriented thinking
-- Core machine learning principles and model intuition
-- Mathematical foundations behind ML algorithms
+- Data visualization using Matplotlib
+- Studying machine learning concepts and workflows
+- Building mathematical foundations required for ML
 
 ---
 
 ## Technical Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
+- Python for scripting, automation, and data tasks
+- NumPy for numerical computing
+- Pandas for data cleaning and analysis
 - HTML & CSS for structure and layout
-- Python for small to medium-scale projects and data tasks
-- Basic C# with continuous practice and exploration
+- Basic C# with ongoing practice
 
 ---
 
 ## Direction & Goals
 
-- Transition deeper into data science and machine learning
-- Build projects that combine data, analysis, and real utility
-- Strengthen problem-solving through math-first understanding
-- Move from tool usage to system-level thinking
+- Learn machine learning deeply and master it step by step
+- Strengthen mathematical intuition behind ML algorithms
+- Build real projects that apply ML concepts
+- Learn C++ for performance, systems thinking, and low-level understanding
 
 ---
 
