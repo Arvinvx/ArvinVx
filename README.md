@@ -3,48 +3,61 @@
 ## Current Project — Arxspace
 🌐 https://www.ar4x.store/
 
-Arxspace is a personal productivity and planning web application I am building to bring daily planning, habit tracking, and long-term focus into a single workspace instead of scattered tools.
+Arxspace is a personal productivity and planning web application focused on combining daily planning, habit tracking, and long-term goal management into a single structured workspace.
+
+Designed to reduce tool fragmentation and improve focus through clarity, consistency, and data-driven self-tracking.
+
+New project coming soon.
 
 ---
 
-## Learning
+## Core Focus
+
+![Data Science](https://img.shields.io/badge/Data%20Science-1F2937?logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+I am focused on building strong foundations in data science and machine learning, with an emphasis on understanding the math, logic, and real-world application behind the tools.
+
+---
+
+## Actively Learning & Using
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Metabolomics](https://img.shields.io/badge/Metabolomics-0F172A?logo=atom&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
 ![Math](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
-- Python for scripting and problem solving  
-- Data analysis with Pandas  
-- Core machine learning concepts  
-- Mathematics foundations for ML  
-- C# language and ecosystem  
+- Python for scripting, automation, and data workflows
+- NumPy for numerical computing and array-based logic
+- Pandas for data cleaning, transformation, and analysis
+- Metabolomics concepts and data-oriented thinking
+- Core machine learning principles and model intuition
+- Mathematical foundations behind ML algorithms
 
 ---
 
-## What I Know
+## Technical Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%20Basic-512BD4?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
-- HTML & CSS for layouts and structure  
-- Python for small to medium projects  
-- Basic C# with ongoing practice  
+- HTML & CSS for structure and layout
+- Python for small to medium-scale projects and data tasks
+- Basic C# with continuous practice and exploration
 
 ---
 
-## Learning Resources
+## Direction & Goals
 
-- **W3Schools** — coding and ML basics  
-  https://www.w3schools.com/
-
-- **Brilliant** — math, logic, data thinking  
-  https://brilliant.org/
-
-- **YouTube** — supplementary learning  
+- Transition deeper into data science and machine learning
+- Build projects that combine data, analysis, and real utility
+- Strengthen problem-solving through math-first understanding
+- Move from tool usage to system-level thinking
 
 ---
 
