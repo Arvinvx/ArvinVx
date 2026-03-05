@@ -1,64 +1,92 @@
 # Arvin
 
-## Current Project — Arxspace
-🌐 https://www.ar4x.store/
+builder. cs student. based in istanbul.
+focused on **machine learning theory** from first principles — not just libraries, but the math behind them.
 
-Arxspace is a personal productivity and planning web application focused on combining daily planning, habit tracking, and long-term goal management into a single structured workspace.
+---
 
-Designed to reduce tool fragmentation and improve focus through clarity, consistency, and data-driven self-tracking.
+## Current Project — RezervasyonYap
 
-New project coming soon.
+🌐 https://rezervasyonyap.com
+
+RezervasyonYap is a SaaS appointment booking platform for barber shops in Turkey — replacing disorganized WhatsApp and paper scheduling with a structured, automated system.
+Built team management, dynamic SMS reminders with tokenized cancel links, AI assistant integration, and a full messaging system with personalized placeholders.
+Live product. Real customers.
 
 ---
 
 ## Core Focus
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F2937?logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?logo=pytorch&logoColor=red)
+![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-1F2937?logo=vercel&logoColor=white)
 
-Focused on building strong foundations in programming and data analysis, while actively moving toward machine learning through structured learning and practical experimentation.
+Studying ML theory through deeplearning.ai (Andrew Ng) — cost functions, backpropagation, optimization, and neural network architecture from scratch.
+Simultaneously shipping real products to validate ideas in the market.
 
 ---
 
 ## Actively Learning & Using
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
-![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?logo=tensorflow&logoColor=white)
+![Backpropagation](https://img.shields.io/badge/Backpropagation-102230?logo=pytorch&logoColor=red)
+![Gradient Descent](https://img.shields.io/badge/Gradient%20Descent-000000?logo=wolfram&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
-- Data visualization using Matplotlib
-- Studying machine learning concepts and workflows
-- Building mathematical foundations required for ML
+- Neural network theory — forward prop, activation functions, vectorized implementation
+- Optimization — gradient descent variants, Adam, momentum, learning rate scheduling
+- Deep learning — backprop derivation, batch normalization, L1/L2 regularization, dropout
+- Building and deploying full-stack SaaS products with Supabase + Cloudflare
 
 ---
 
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-- Python for scripting, automation, and data tasks
-- NumPy for numerical computing
-- Pandas for data cleaning and analysis
+- Python for ML, scripting, automation, and bots
+- JavaScript for full-stack web and SaaS products
+- React Native / Expo for mobile development
 - HTML & CSS for structure and layout
 - Basic C# with ongoing practice
 
 ---
 
+## Projects
+
+**[RezervasyonYap](https://rezervasyonyap.com)** — Live SaaS · appointment booking for barber shops in Turkey  
+`javascript` `supabase` `cloudflare` `sms api` `react native`
+
+**Telegram Song Identifier Bot** — Send an Instagram / TikTok / YouTube Shorts link, get the song back. Deployed on Render.  
+`python` `yt-dlp` `shazamio` `telegram bot api`
+
+**[Arxspace](https://www.ar4x.store/)** — Personal productivity and workspace system  
+`javascript` `supabase` `open-source ai`
+
+---
+
 ## Direction & Goals
 
-- Learn machine learning deeply and master it step by step
+- Master machine learning deeply — theory first, then application
 - Strengthen mathematical intuition behind ML algorithms
-- Build real projects that apply ML concepts
-- Learn C++ for performance, systems thinking, and low-level understanding
+- Build real products that apply ML concepts end-to-end
+- Study CS formally in Canada
+- Learn C++ for performance and systems-level thinking
 
 ---
 
 ## Contact
 
 ![Discord](https://img.shields.io/badge/Discord-arvinvx-5865F2?logo=discord&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ArvinVx-181717?logo=github&logoColor=white)
+🌐 [rezervasyonyap.com](https://rezervasyonyap.com)
