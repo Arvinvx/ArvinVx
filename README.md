@@ -1,7 +1,6 @@
 # Arvin
 
 builder. cs student. based in istanbul.
-focused on **machine learning theory** from first principles — not just libraries, but the math behind them.
 
 ---
 
