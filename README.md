@@ -1,6 +1,7 @@
 # Arvin
 
 builder. cs student. based in istanbul.
+i build AI-powered tools and apps — things that call APIs, automate tasks, and actually do something useful.
 
 ---
 
@@ -16,25 +17,23 @@ Live product. Real customers.
 
 ## Core Focus
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
-![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-000000?logo=openai&logoColor=white)
+![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier&logoColor=orange)
 
-Studying ML theory through deeplearning.ai (Andrew Ng) — cost functions, gradient descent, and neural network fundamentals from scratch.
-Simultaneously shipping real products to validate ideas in the market.
+Building tools that integrate AI APIs to create useful, real-world applications — bots, automation scripts, and AI-powered features inside products.
 
 ---
 
 ## Actively Learning
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?logo=pytorch&logoColor=red)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
 ![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
 
-- Machine learning theory — supervised learning, cost functions, gradient descent
-- Neural network fundamentals — forward propagation, activation functions
-- Mathematical foundations for ML — linear algebra, calculus intuition
-- Deep learning concepts via deeplearning.ai
+- Machine learning fundamentals — supervised learning, cost functions, gradient descent
+- Mathematical foundations for ML
+- Expanding AI API integrations and automation capabilities
 
 ---
 
@@ -47,7 +46,7 @@ Simultaneously shipping real products to validate ideas in the market.
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
-- Python for scripting, automation, and ML
+- Python for scripting, automation, and AI integrations
 - JavaScript, HTML & CSS for web development
 - Basic C# with ongoing practice
 
@@ -56,7 +55,7 @@ Simultaneously shipping real products to validate ideas in the market.
 ## Projects
 
 **[RezervasyonYap](https://rezervasyonyap.com)** — Live SaaS · appointment booking for barber shops in Turkey  
-`javascript` `supabase` `sms api`
+`javascript` `supabase` `sms api` `ai integration`
 
 **Telegram Song Identifier Bot** — Send an Instagram / TikTok / YouTube Shorts link, get the song back. Deployed on Render.  
 `python` `yt-dlp` `shazamio` `telegram bot api`
@@ -68,9 +67,8 @@ Simultaneously shipping real products to validate ideas in the market.
 
 ## Direction & Goals
 
-- Master machine learning deeply — theory first, then application
-- Strengthen mathematical intuition behind ML algorithms
-- Build real projects that apply ML concepts
+- Build more AI-powered tools and automation projects
+- Deepen understanding of ML to apply it in real products
 - Study CS formally in Canada
 - Learn C++ for performance and systems-level thinking
 
