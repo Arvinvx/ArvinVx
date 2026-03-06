@@ -2,20 +2,20 @@
 builder. cs student. based in istanbul.
 i build AI-powered tools and apps — things that call APIs, automate tasks, and actually do something useful.
 ---
-## Current Project — RezervasyonYap
+## Current Project — RezervasyonYap ##
 🌐 https://rezervasyonyap.com
 RezervasyonYap is a SaaS appointment booking platform for barber shops in Turkey — replacing disorganized WhatsApp and paper scheduling with a structured, automated system.
 Built team management, dynamic SMS reminders with tokenized cancel links, AI assistant integration, and a full messaging system with personalized placeholders.
 Live product. Real customers.
 ---
-## Core Focus
+## Core Focus ##
 ![AI Integration](https://img.shields.io/badge/AI%20Integration-000000?logo=openai&logoColor=white)
 ![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier&logoColor=orange)
 Building tools that integrate AI APIs to create useful, real-world applications — bots, automation scripts, and AI-powered features inside products.
 ---
-## Actively Learning
+## Actively Learning ##
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman&logoColor=orange)
 ![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier&logoColor=orange)
@@ -25,7 +25,7 @@ Building tools that integrate AI APIs to create useful, real-world applications 
 - Automation and scripting — connecting systems, building bots, reducing manual work
 - Mathematical foundations for ML
 ---
-## Technical Skills
+## Technical Skills ##
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ Building tools that integrate AI APIs to create useful, real-world applications 
 - JavaScript, HTML & CSS for web development
 - Basic C# with ongoing practice
 ---
-## Projects
+## Projects ##
 **[RezervasyonYap](https://rezervasyonyap.com)** — Live SaaS · appointment booking for barber shops in Turkey  
 `javascript` `supabase` `sms api` `ai integration`
 **Telegram Song Identifier Bot** — Send an Instagram / TikTok / YouTube Shorts link, get the song back. Deployed on Render.  
@@ -44,7 +44,7 @@ Building tools that integrate AI APIs to create useful, real-world applications 
 **[Arxspace](https://www.ar4x.store/)** — Personal productivity and workspace system  
 `javascript` `supabase`
 ---
-## Direction & Goals
+## Direction & Goals ##
 - Build more AI-powered tools and automation projects
 - Deepen understanding of ML to apply it in real products
 - Study CS formally in Canada
