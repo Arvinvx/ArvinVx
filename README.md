@@ -19,9 +19,11 @@ Building tools that integrate AI APIs to create useful, real-world applications 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman&logoColor=orange)
 ![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier&logoColor=orange)
+![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
 - JavaScript — deepening fundamentals and building real features with it
 - API development — designing and consuming REST APIs
 - Automation and scripting — connecting systems, building bots, reducing manual work
+- Mathematical foundations for ML
 ---
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
