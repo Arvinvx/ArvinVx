@@ -7,7 +7,7 @@ i build AI-powered tools and apps — things that call APIs, automate tasks, and
 ---
 
 ## Current Project — RezervasyonYap
-🌐 https://rezervasyonyap.com
+🌐 https://rezarvasyonyap.com
 
 RezervasyonYap is a SaaS appointment booking platform for barber shops in Turkey — replacing disorganized WhatsApp and paper scheduling with a structured, automated system.
 
