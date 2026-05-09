@@ -2,89 +2,79 @@
 
 builder. cs student. based in istanbul.
 
-building AI-powered products, automations, and backend systems.
+currently building AI-powered products, automations, and backend systems.
 
 ---
 
-## Current Project — RezervasyonYap
-🌐 https://rezervasyonyap.com
+## Current Project — Rarex
 
-RezervasyonYap is a SaaS appointment booking platform for barber shops in Turkey.
+🌐 https://rarex.app
 
-Built features including:
-- team management
-- automated SMS reminders
-- tokenized cancel links
-- AI assistant integration
-- dynamic messaging system
-- personalized placeholders
+Rarex is my current startup focused on AI automation and business tools.
 
-Live product. Real customers.
+building systems that integrate APIs, AI workflows, automations, and backend infrastructure to solve real-world problems.
+
+my first startup project was RezervasyonYap, an appointment platform for barber shops in Turkey. it failed, but it taught me product building, deployment, customer problems, and what shipping a real product actually feels like. painful little educational experience. startups are basically speedrunning emotional damage while debugging APIs.
 
 ---
 
-## Core Focus
+## Current Focus
 
-![AI Integration](https://img.shields.io/badge/AI%20Integration-000000?logo=openai&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-339933?logo=node.js&logoColor=white)
-![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman&logoColor=orange)
-![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier&logoColor=orange)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-111827?logo=stackoverflow&logoColor=orange)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-339933?logo=node.js\&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?logo=openai\&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier\&logoColor=orange)
+![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman\&logoColor=orange)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-111827?logo=stackoverflow\&logoColor=orange)
 
-Focused on building useful software with AI integrations, automations, APIs, and scalable backend systems.
+focused on becoming a full-stack AI engineer by combining backend engineering with AI systems, automations, APIs, and product building.
 
 ---
 
 ## Currently Learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Math for ML](https://img.shields.io/badge/Math%20for%20ML-000000?logo=wolfram&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?logo=tensorflow\&logoColor=orange)
 
-- JavaScript & TypeScript
-- Backend architecture
-- Express.js & APIs
-- MongoDB
-- Authentication systems
-- AI integrations
-- ML math foundations
+* Backend development
+* JavaScript & TypeScript
+* Node.js & Express.js
+* REST APIs
+* Authentication systems
+* Database fundamentals
+* Python
+* Machine learning fundamentals
+* AI engineering fundamentals
+
+---
+
+## Future Path
+
+* Scrimba Backend Developer Path
+* Scrimba AI Engineer Path
+* System Design (ByteByteGo)
+* IBM AI Engineering Professional Certificate
+* Andrej Karpathy content
+* Building AI products nonstop
 
 ---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-**Languages:** Python, JavaScript, TypeScript, HTML, CSS  
-**Backend:** Supabase, Express.js, REST APIs  
-**Tools:** Git, Vercel, Render, OpenAI APIs, SMS APIs
+**Languages:** JavaScript, Python, HTML, CSS
+**Backend:** Node.js, Express.js, APIs
+**Tools:** Git, Vercel, Render, Supabase, OpenAI APIs
 
 ---
 
-## Projects
+## Goals
 
-### RezervasyonYap
-Live SaaS appointment booking platform for barber shops in Turkey.
-
-`javascript` `supabase` `sms api` `ai integration`
-
----
-
-### Telegram Song Identifier Bot
-Send an Instagram / TikTok / YouTube Shorts link and identify the song automatically.
-
-`python` `telegram bot api` `yt-dlp` `shazamio`
-
----
-
-### Arxspace
-Personal productivity and workspace system.
-
-`javascript` `supabase`
+* become a strong full-stack AI engineer
+* build useful AI products
+* understand LLM systems deeply
+* create scalable startups
+* keep building
 
 ---
 
