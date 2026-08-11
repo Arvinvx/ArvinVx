@@ -4,7 +4,7 @@
 
 I research and build **AI systems, AI software, and intelligent agents**, with a focus on **machine learning, neural networks, robotics, and autonomous systems**.
 
-Currently exploring AI research while building experimental systems and software to understand what I'm learning in practice.
+I started by building **backend systems and AI systems**, and gradually moved deeper into machine learning, neural networks, and AI research.
 
 ---
 
@@ -12,9 +12,7 @@ Currently exploring AI research while building experimental systems and software
 
 I'm working toward becoming an **AI Research Engineer and Founder**.
 
-I started with backend and full-stack development, then moved into AI engineering and now focus more deeply on **machine learning, neural networks, and AI research**.
-
-I've built startups and experimental AI systems along the way.
+I enjoy understanding how intelligent systems work and turning what I learn into real software, experiments, and research projects.
 
 ---
 
