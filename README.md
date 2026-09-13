@@ -41,6 +41,8 @@ A SaaS-connected CLI agent exploring **agents, multi-agent systems, tools, memor
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-000000)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 **Neural Networks · Machine Learning · Deep Learning · Computer Vision · AI Agents**
@@ -53,13 +55,10 @@ A SaaS-connected CLI agent exploring **agents, multi-agent systems, tools, memor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-339933?logo=node.js\&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?logo=openai\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-000000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
