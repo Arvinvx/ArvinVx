@@ -21,20 +21,6 @@ A SaaS-connected CLI agent exploring **agents, multi-agent systems, tools, memor
 
 ---
 
-## Current Research
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-black?style=flat-square)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-black?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents%20%26%20Multi--Agent%20Systems-black?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-black?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-black?style=flat-square)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-black?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-black?style=flat-square)
-![AI Research](https://img.shields.io/badge/AI%20Research-black?style=flat-square)
-![AI Software](https://img.shields.io/badge/AI%20Software-black?style=flat-square)
-
----
-
 ## Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
