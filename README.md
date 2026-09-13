@@ -1,7 +1,5 @@
 # Arvin
-**AI Research Engineer · CS Student · Builder**
 
-I research and build **AI systems, AI software, and intelligent agents**, with a focus on **machine learning, neural networks, robotics, and autonomous systems**.
 
 I started by building **backend systems and AI systems**, and gradually moved deeper into machine learning, neural networks, and AI research.
 
@@ -72,13 +70,6 @@ A SaaS-connected CLI agent exploring **agents, multi-agent systems, tools, memor
 
 ---
 
-## Future
-
-I'm interested in building **autonomous systems and self-driving technology**, combining:
-
-**Machine Learning · Computer Vision · Robotics · Reinforcement Learning · Simulation · Autonomous Systems · Control Systems · AI Research**
-
----
 
 ## Connect
 
