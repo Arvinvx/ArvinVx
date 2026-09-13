@@ -1,13 +1,10 @@
 # Arvin
-
-
-I started by building **backend systems and AI systems**, and gradually moved deeper into machine learning, neural networks, and AI research.
-
----
-
 ## About
 
+
 I'm working toward becoming an **AI Research Engineer and Founder**.
+
+I started by building **backend systems and AI systems**, and gradually moved deeper into machine learning, neural networks, and AI research.
 
 I enjoy understanding how intelligent systems work and turning what I learn into real software, experiments, and research projects.
 
@@ -56,12 +53,8 @@ A SaaS-connected CLI agent exploring **agents, multi-agent systems, tools, memor
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-339933?logo=node.js&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-102230?logo=zapier&logoColor=orange)
-![API Development](https://img.shields.io/badge/API%20Development-1F2937?logo=postman&logoColor=orange)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-111827?logo=stackoverflow&logoColor=orange)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
