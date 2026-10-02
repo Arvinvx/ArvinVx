@@ -1,13 +1,4 @@
-## About
 
-
-I'm working toward becoming an **AI Research Engineer and Founder**.
-
-I started by building **backend systems and AI systems**, and gradually moved deeper into machine learning, neural networks, and AI research.
-
-I enjoy understanding how intelligent systems work and turning what I learn into real software, experiments, and research projects.
-
----
 
 ## Previous Projects
 
