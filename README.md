@@ -1,15 +1,13 @@
 # hey, i'm arvin.
 
-Building things with AI, code, and a little too much curiosity.
-
-Interested in **AI research engineering**, deep learning, reinforcement learning, and physics-based simulations. Mostly experimenting, breaking things, and figuring out how they actually work.
+Mostly researching LLMs, experimenting with deep learning, and building AI agents. Sometimes I get into reinforcement learning, robotics, and physical AI.
 
 ### ~/currently
 
-- Building autonomous systems and AI agents.
-- Exploring reinforcement learning, robotics, and simulation.
-- Working with PyTorch, Python, and C++.
-- Learning more about how intelligent systems learn, reason, and interact with the world.
+- Exploring LLMs and deep learning architectures.
+- Building AI agents and autonomous systems.
+- Experimenting with reinforcement learning, robotics, and physics-based simulations.
+- Mostly working with Python, PyTorch, and C++.
 
 ### ~/stack
 
@@ -22,7 +20,7 @@ Interested in **AI research engineering**, deep learning, reinforcement learning
 
 ### frameworks & tools
 
-**AI & Machine Learning**
+**AI & Deep Learning**
 
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
@@ -38,13 +36,6 @@ Interested in **AI research engineering**, deep learning, reinforcement learning
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io/)
 
-**Math & Physics**
-
-[![Mathematics](https://api.iconify.design/mdi/sigma.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Mathematics)
-[![Calculus](https://api.iconify.design/mdi/math-integral-box.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Calculus)
-[![Physics](https://api.iconify.design/mdi/atom.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Physics)
-[![Rocket Physics](https://api.iconify.design/mdi/rocket-launch.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Classical_mechanics)
-
 ### ~/interests
 
-`machine learning` · `reinforcement learning` · `robotics` · `simulation` · `AI agents` · `research` · `software`
+`LLMs` · `deep learning` · `reinforcement learning` · `robotics` · `physical AI` · `simulation` · `AI agents` · `research`
