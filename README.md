@@ -40,7 +40,7 @@ Interested in **AI research engineering**, deep learning, reinforcement learning
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io/)
 
-### math & physics
+**Math & Physics**
 
 **Mathematics**
 
@@ -50,9 +50,7 @@ Interested in **AI research engineering**, deep learning, reinforcement learning
 
 `Classical Mechanics` · `Kinematics` · `Newtonian Dynamics` · `Numerical Simulation`
 
-**AI & Computational Concepts**
 
-`Neural Networks` · `Deep Learning` · `Reinforcement Learning` · `Backpropagation` · `Machine Learning`
 ### ~/interests
 
 `machine learning` · `reinforcement learning` · `robotics` · `simulation` · `AI agents` · `research` · `software` 
