@@ -28,8 +28,6 @@ Interested in **AI research engineering**, deep learning, reinforcement learning
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 [![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
 
-`Keras` · `NumPy` · `Pandas` · `XGBoost`
-
 **Backend & Development**
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
@@ -42,16 +40,11 @@ Interested in **AI research engineering**, deep learning, reinforcement learning
 
 **Math & Physics**
 
-**Mathematics**
-
-`Linear Algebra` · `Calculus` · `Probability & Statistics` · `Optimization`
-
-**Physics**
-
-`Classical Mechanics` · `Kinematics` · `Newtonian Dynamics` · `Numerical Simulation`
-
+[![Mathematics](https://api.iconify.design/mdi/sigma.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Mathematics)
+[![Calculus](https://api.iconify.design/mdi/math-integral-box.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Calculus)
+[![Physics](https://api.iconify.design/mdi/atom.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Physics)
+[![Rocket Physics](https://api.iconify.design/mdi/rocket-launch.svg?color=%2358a6ff&width=48&height=48)](https://en.wikipedia.org/wiki/Classical_mechanics)
 
 ### ~/interests
 
-`machine learning` · `reinforcement learning` · `robotics` · `simulation` · `AI agents` · `research` · `software` 
-
+`machine learning` · `reinforcement learning` · `robotics` · `simulation` · `AI agents` · `research` · `software`
